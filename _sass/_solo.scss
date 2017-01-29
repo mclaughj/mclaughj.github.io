@@ -12,7 +12,8 @@ html {
 
 body {
   margin: 2rem 0 5rem;
-  color: #333;
+  color: #999;
+  background-color: #111;
 }
 
 @media (min-width: 30rem) {
@@ -34,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: Montserrat, sans-serif;
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
   line-height: 1;
-  color: #111;
+  color: #999;
   text-rendering: optimizeLegibility;
 }
 
@@ -149,4 +150,8 @@ pre > code {
   max-width: 30rem;
   margin: 0 auto;
   padding: 0 1rem;
+}
+
+.footer {
+  padding-top: 1rem;
 }
