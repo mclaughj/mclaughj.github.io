@@ -10,3 +10,16 @@
 
 span.red { color: red; }
 span.green { color: green; }
+
+::selection {
+  background: #fff;
+  color: #000;
+}
+
+a::selection {
+  color: #0074d9;
+}
+
+::selection.red {
+  color: red;
+}
