@@ -1,10 +1,22 @@
-# Site settings
-title: Zero1 Software
-tag_text: Zero1 Software
-description: Zero1 Software is a one-man software development shop speciallizing in iOS applications.
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
-# Build settings
-markdown: kramdown
-exclude: ["README.md"]
-sass:
-  style: compressed
+# Setup
+title:               Joseph McLaughlin
+tagline:             'Some thoughts.'
+description:         ''
+url:                 http://josephmclaughl.in
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Joseph McLaughlin
+  url:               https://twitter.com/mclaughj
+  email:             me@josephmclaughl.in
+
+# Custom vars
+version:             1.0.0
