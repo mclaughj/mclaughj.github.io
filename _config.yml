@@ -3,12 +3,12 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 
 permalink:           pretty
-paginate: 5
-gems: [jekyll-paginate]
+paginate:            5
+gems:                [jekyll-paginate]
 
 # Setup
-title:               Joseph McLaughlin
-tagline:             'Some thoughts.'
+title:               Words & Things
+tagline:             'A somewhat coherant webblog'
 description:         ''
 url:                 http://josephmclaughl.in
 baseurl:             ''
