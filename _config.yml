@@ -1,5 +1,4 @@
 title: '🧠 brain.dump()'
-baseurl: 'http://josephmclaughl.in'
 email: me@josephmclaughl.in
 
 highlighter: rouge
@@ -25,4 +24,4 @@ exclude:
 - README.md
 
 
-gems: [jekyll-seo-tag, jekyll-paginate]
+plugins: [jekyll-seo-tag, jekyll-paginate]
