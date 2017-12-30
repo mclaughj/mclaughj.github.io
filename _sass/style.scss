@@ -113,25 +113,22 @@ blockquote {
 .headline, .post-headline {
     margin-bottom: 0.5em;
     
-        @include media-query($on-mobile) {
-            font-size: 1.5em !important;
-        }
+    @include media-query($on-mobile) {
+        font-size: 2em !important;
     }
+}
     
-    .headline {
-        font-size: 3em;
-    }
-    .post-headline {
-        font-size: 2em;
-    }
-
-
+.headline {
+    font-size: 3em;
+}
+.post-headline {
+    font-size: 2em;
+}
 
 /* Article list in index/home page */
 .article-list {
     margin: 1em 0;
 }
-
 
 /* Add video class for iframes to make them responsive */
 .video {
