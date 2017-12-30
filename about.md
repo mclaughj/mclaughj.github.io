@@ -15,7 +15,7 @@ This site is [hopefully] updated on a semi-regular basis by Joseph McLaughlin. S
 - Sports
 - Apple
 
-The title is a terribly constructed line of swift code. Long live singletons.
+The title is a terribly constructed line of Swift code. Long live singletons?
 
 Running on [GitHub Pages](https://pages.github.com) and powered by [Jekyll](https://jekyllrb.com). Theme modified from [Hagura](https://github.com/sharu725/hagura).
 
