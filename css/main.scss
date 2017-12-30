@@ -13,7 +13,9 @@ $base-line-height: 1.7;
 $spacing-unit:     30px;
 
 $text-color:       #333;
+$dark-text-color:  #aaa;
 $background-color: #fdfdfd;
+$dark-background-color: #071725;
 $brand-color:      #ea5a9a;
 
 $grey-color:       #828282;
@@ -22,7 +24,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    800px;
-$on-palm:          600px;
+$on-mobile:        500px;
 $on-laptop:        1000px;
 
 @mixin media-query($device) {

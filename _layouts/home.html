@@ -10,8 +10,8 @@ layout: compress
   <link rel="stylesheet" href="/css/main.css">
   {% seo %}
 </head>
-<body style="background-color: rgb(255, 255, 255)">
- <script async src="/js/theme.min.js"></script>
+<body>
+ <script async src="/js/theme.js"></script>
   <header>
   </header>
 
@@ -25,7 +25,7 @@ layout: compress
     <div class="links">
         <a href="/about/">About</a>
         <a href="/contact/">Contact</a>
-        <a class="theme" onclick="theme()">Toggle Theme</a>
+        <a class="theme" onclick="toggleTheme()">Toggle Theme</a>
     </div>
     <p class="copy"><small>Copyright &copy; {{ 'now' | date: "%Y" }} Joseph McLaughlin</small></p>
 </footer>

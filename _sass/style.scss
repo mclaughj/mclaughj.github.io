@@ -3,54 +3,77 @@ html, body {
 }
 
 body {
-        max-width: $content-width;
-        font-family: $base-font-family;
-        margin: 0 auto;
-        line-height: $base-line-height;
-        font-size: $base-font-size;
+    max-width: $content-width;
+    font-family: $base-font-family;
+    margin: 0 auto;
+    line-height: $base-line-height;
+    font-size: $base-font-size;
+    color: $text-color;
+    padding: 2em 1em;
+    text-rendering: optimizeLegibility;
+    height: 100%;
+    @include media-query($on-mobile) {
+        max-width: 100%;
+        padding: 1em;
+    }
+    
+    &.light {
+        background-color: $background-color;
         color: $text-color;
-        padding: 2em 1em;
-        text-rendering: optimizeLegibility;
-        height: 100%;
-        @include media-query($on-palm) {
-            max-width: 100%;
-            padding: 1em;
+        
+        a:hover {
+         border-bottom: 3px solid lighten($text-color, 50%);
         }
-
+        a span {
+            color: lighten($text-color, 60%);
+        }
+        a:hover span {
+            color: $text-color;
+        }
+    }
+    
+    &.dark {
+        background-color: $dark-background-color;
+        color: $dark-text-color;
+        
+        a:hover {
+         border-bottom: 3px solid lighten($text-color, 50%);
+        }
+        a span {
+            color: darken($dark-text-color, 40%);
+        }
+        a:hover span {
+            color: #fff;
+        }
+        .headline, .post-headline {
+            color: #eee;
+        }
     }
 
-    h1,h2,h3,h4,h5,h6 {
-         font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
-         font-weight: bold;
-         line-height: 1.8;
-         margin: 0;
-    }
+}
 
+h1,h2,h3,h4,h5,h6 {
+     font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+     font-weight: bold;
+     line-height: 1.8;
+     margin: 0;
+}
 
 a {
     color: $brand-color;
     text-decoration: none;
-    &:hover {
-     border-bottom: 3px solid lighten($text-color, 50%);
-    }
-}
-
-a span {
-    color: lighten($text-color, 60%);
-}
-
-a:hover span {
-    color: $text-color;
 }
 
 p a {
     color: $brand-color;
     text-decoration: none;
-    &:hover {
+    body.light &:hover {
         border-bottom: 2px solid lighten($text-color, 50%);
     }
+    body.dark &:hover {
+        border-bottom: 2px solid lighten($dark-text-color, 50%);
+    }
 }
-
 
 figure {
     margin: 0;
@@ -71,25 +94,24 @@ code {
     }
 }
 pre {
-        padding: 1em;
-    }
+    padding: 1em;
+}
 code {
     padding: 0.1em;
-    }
+}
+    
 blockquote {
-    border-left: 2px solid $brand-color;
+    border-left: 3px solid $brand-color;
     padding-left: 1em;
     font-family: Georgia,Times,Times New Roman,serif;
     font-size: 0.9*$base-font-size;
     font-style: italic;
-    }
-
-
+}
 
 .headline, .post-headline {
     margin-bottom: 0.5em;
     
-        @include media-query($on-palm) {
+        @include media-query($on-mobile) {
             font-size: 2em;
         }
     }
@@ -116,7 +138,7 @@ blockquote {
     @include media-query($on-laptop) {
         height: 300px;
     }
-    @include media-query($on-palm) {
+    @include media-query($on-mobile) {
         height: 180px;
     }   
 }
