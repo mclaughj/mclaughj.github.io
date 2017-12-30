@@ -1,15 +1,9 @@
-### your site title here
-
 title: 'Hey there!'
-baseurl: / # name of the repository
+baseurl: ''
 email: your@email.com
-
-
 
 highlighter: rouge
 markdown: kramdown
-### exclude the instructions / write-up in the README.md
-
 
 #optimization
 #compress.html
