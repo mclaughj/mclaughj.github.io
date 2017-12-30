@@ -16,7 +16,7 @@ This clip of Bryan Cranston's character Hal trying to replace a light bulb, but 
     <source src="//i.imgur.com/rQIb4Vw.mp4" type="video/mp4">
 </video>
 
-I've been doing some yak shaving of my own over the Christmas break in order to accomplish the seemingly simple task of publishing an article. Writing the article is easy enough, but then there's the question about where to publish, which domain name to use, the work of designing and coding a new blog theme, and yes, even styling the mp4 embed just so.
+I've been doing some yak shaving of my own over the Christmas break in order to accomplish the seemingly simple task of publishing an article. Writing the article is easy enough, but then there's the question about where to publish, which domain name to use, the work of designing and coding a new blog theme, naming the blog, and yes, even styling the mp4 embed just right.
 
 But here I am, with a "shaved yak" (a new domain name, a new blogging platform, and a spiffy new design [which I'm quite proud of]). Now I can finally start on the task of writing the [promised article](https://twitter.com/mclaughj/status/943192793027002368) about custom mechanical keyboards.
 
