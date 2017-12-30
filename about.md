@@ -15,7 +15,7 @@ This site is [hopefully] updated on a semi-regular basis by Joseph McLaughlin. S
 - Sports
 - Apple
 
-Running on [GitHub Pages](https://pages.github.com) and powered by [Jekyll](https://jekyllrb.com). Theme modified from [Hagura](https://github.com/sharu725/hagura).
+Running on [GitHub Pages](https://pages.github.com) and powered by [Jekyll](https://jekyllrb.com). Theme based on [Hagura](https://github.com/sharu725/hagura).
 
 <h1 class="post-headline">About Joe</h1>
 
