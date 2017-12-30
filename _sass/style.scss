@@ -35,15 +35,13 @@ a {
     }
 }
 
-a .infinity {
+a span {
     color: lighten($text-color, 60%);
 }
 
-a:hover .infinity {
+a:hover span {
     color: $text-color;
 }
-
-
 
 p a {
     color: $brand-color;

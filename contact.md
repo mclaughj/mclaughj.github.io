@@ -4,6 +4,4 @@ layout: post
 permalink: /contact/
 ---
 
-May be a contact form.
-
-Email: <a href="mailto:{{site.email}}">{{site.email}}</a>
+You can [email](mailto:me@josephmclaughl.in) me if you want to, but you should probably just hit me up on [twitter](https://twitter.com/mclaughj).
