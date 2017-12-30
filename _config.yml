@@ -1,9 +1,10 @@
 title: '🧠 Brain.shared.dump()'
 baseurl: ''
-email: your@email.com
+email: me@josephmclaughl.in
 
 highlighter: rouge
 markdown: kramdown
+permalink: pretty
 
 #optimization
 #compress.html
