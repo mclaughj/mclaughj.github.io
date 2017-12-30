@@ -5,6 +5,9 @@ highlighter: rouge
 markdown: kramdown
 permalink: pretty
 
+# Tracker
+analytics: UA-9891338-2
+
 #optimization
 #compress.html
 compress_html:
