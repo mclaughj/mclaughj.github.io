@@ -185,12 +185,23 @@ footer {
     margin-right: 1em;
 }
 
+footer a {
+    padding-bottom: 0.1em;
+}
+
 /* Footer copyrights */
 .copy {
     color: #aaa;
 }
 
+.footnotes {
+    font-size: 15px;
+}
+
 /* Horizontal Divider */
-.divider {
-    margin: 1em 0;
+hr {
+    width: 10em;
+    margin: 3em 0em 1em 0em;
+    border: none;
+    border-top: 3px solid $brand-color;
 }
