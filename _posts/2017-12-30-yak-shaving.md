@@ -10,7 +10,7 @@ For those of you unfamiliar with the concept ([as defined by Wiktionary](https:/
 
 > Any apparently useless activity which, by allowing you to overcome intermediate difficulties, allows you to solve a larger problem.
 
-This clip of Bryan Cranston's character [Hal](http://www.imdb.com/title/tt0212671/characters/nm0186505?ref_=tt_cl_t1) trying to replace a light bulb, but being distracted by an apparently endless set of tasks before being able to, illustrates the concept nicely.
+This clip of Bryan Cranston's character [Hal](http://www.imdb.com/title/tt0212671/characters/nm0186505?ref_=tt_cl_t1) trying to replace a light bulb, but being distracted by an apparently endless set of tasks before being able to, illustrates it nicely.
 
 <video preload="auto" autoplay="autoplay" muted="muted" loop="loop" webkit-playsinline="">
     <source src="//i.imgur.com/rQIb4Vw.mp4" type="video/mp4">
