@@ -5,12 +5,12 @@ permalink: /about/
 published: true
 ---
 
-This site is [hopefully] updated on a semi-regular basis by Joseph McLaughlin. Some topics I'd like to cover:
+This site will [hopefully] be updated on a semi-regular basis by Joseph McLaughlin. Some topics will include:
 
-- Programming (especially Swift)
-- Mechanical Keyboards
+- Software engineering
+- Mechanical keyboards
 - Social psychology
-- Tips for working from home
+- Working from home
 - Music
 - Sports
 - Apple
