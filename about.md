@@ -19,7 +19,7 @@ Running on [GitHub Pages](https://pages.github.com) and powered by [Jekyll](http
 
 <h1 class="post-headline">About Joe</h1>
 
-Joe is a software engineer who currently works full-time for Bleacher Report. He leads the engineering efforts for [the B&#8201;⁄&#8201;R iOS app](https://itunes.apple.com/us/app/bleacher-report-sports-news/id418075935?mt=8).
+Joe is a software engineer who currently works full-time for Bleacher Report. He leads the mobile engineering efforts for [the B&#8201;⁄&#8201;R iOS app](https://itunes.apple.com/us/app/bleacher-report-sports-news/id418075935?mt=8).
 
 Joe is an avid sports fan, and cheers for the New England Patriots, Boston Red Sox, and whichever team LeBron James is playing for.
 

@@ -10,7 +10,7 @@ For those of you unfamiliar with the concept ([as defined by Wiktionary](https:/
 
 > Any apparently useless activity which, by allowing you to overcome intermediate difficulties, allows you to solve a larger problem.
 
-This clip of Bryan Cranston's character [Hal](http://www.imdb.com/title/tt0212671/characters/nm0186505?ref_=tt_cl_t1) trying to replace a light bulb, but being distracted by a seemingly endless set of tasks before being able to, illustrates the concept nicely.
+This clip of Bryan Cranston's character [Hal](http://www.imdb.com/title/tt0212671/characters/nm0186505?ref_=tt_cl_t1) trying to replace a light bulb, but being distracted by an apparently endless set of tasks before being able to, illustrates the concept nicely.
 
 <video preload="auto" autoplay="autoplay" muted="muted" loop="loop" webkit-playsinline="">
     <source src="//i.imgur.com/rQIb4Vw.mp4" type="video/mp4">
@@ -23,4 +23,4 @@ It's a never ending list of things to do in order to "[just](https://twitter.com
 
 But here I am, with my "shaved yak" (a new domain name, a new blogging platform, and a spiffy new design [which I'm quite proud of]). Now I can finally start on the task of writing the [promised article](https://twitter.com/mclaughj/status/943192793027002368) about custom mechanical keyboards.
 
-I have a ton of other things I want to write about, so hopefully with the yak out of the way I can focus on the important stuff.
+There are always more yaks to shave, but hopefully with this particular one out of the way I can focus on the long list of things I'd like to write about.
