@@ -10,6 +10,6 @@ I joined Twitter in March of 2008 while doing some homework for my “Object Ori
 
 I remember those days fondly, but lately I’ve found myself spending far too much time and attention scrolling through updates that I largely don’t care about. Retweets, quote tweets, memes, hot takes. (And yes, I know I’m likely guilty of polluting your feeds with the same.) The signal-to-noise ratio of my feed has deteriorated to a point where it’s no longer worth the time and attention I was giving it.
 
-As a replacement, I’m hoping to spend more time reading and writing longer-form content. If you want to chat, send me an email or iMessage (details are on [my contact page](/contact/).)
+As a replacement, I’m hoping to spend more time reading and writing longer-form content. If you want to chat, send me an email or iMessage (details are on [my contact page](/contact/)).
 
 👋
