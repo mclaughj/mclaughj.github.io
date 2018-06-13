@@ -4,4 +4,4 @@ layout: post
 permalink: /contact/
 ---
 
-You can [email](mailto:me@josephmclaughl.in) me if you want to, but you should probably just hit me up on [twitter](https://twitter.com/mclaughj).
+If you're looking to get in touch, send me an email (joseph.m.mclaughlin at gmail), or if you're a fellow Apple user, slide over to iMessage (same email).
